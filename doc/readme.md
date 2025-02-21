@@ -6,5 +6,6 @@ _Current Working Draft_
 # [AI Software](ai-software.md)
 # [Business Ideas](business-ideas.md)
 # [Business Setup](business-setup.md)
+# [Software Development](software-development.md)
 # [Terminology](terminology.md)
 # [Prompt Templates](prompt-templates.md)
