@@ -1,5 +1,5 @@
 # Introduction
-You've already won by commiting to learning and practicing AI techniques.
+You've already won by commiting to building your business on top of AI. This book will help you build with AI while learning along the way.
 
 ### WHO can make Money with AI?
 Everyone.
