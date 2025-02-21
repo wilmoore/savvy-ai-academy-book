@@ -1,0 +1,13 @@
+{
+  "name": "how-to-ai",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "browser-sync": "^3.0.3",
+    "nodemon": "^3.1.9",
+    "spec-md": "^3.1.0"
+  },
+  "scripts": {
+    "dev": "nodemon --exec 'spec-md > ./out/index.html' ./doc/readme.md &",
+    "dev:preview": "bun run dev && browser-sync out"
+  }
+}
