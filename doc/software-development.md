@@ -25,6 +25,7 @@ They try to make it seem hard. But, at the end of theday, it's all in the dns. I
 ### Machine Learning
 - [ ] CV
 - [ ] NLP (Natual Language Processing)
+
 ### Programming Languages
 - [ ] Python
 - [ ] TypeScript
@@ -36,4 +37,4 @@ They try to make it seem hard. But, at the end of theday, it's all in the dns. I
 
 ### Libaries
 #### Python
-#### ...
+#### TypeScript
