@@ -3,8 +3,12 @@
 ### Open-Source
 AI should remain open-sourced.
 
-### Your Title
+### Career
 Once you've completed even one of these, you're a software developer or software engineer. It's not a legal term. It's an accurate depiction of the role you've played by publishing software and getting paid to do so.
+
+### Jobs
+- [ ] [arc()](https://arc.dev/dashboard/d/full-time-jobs/browse)
+- [ ] [G2i](https://g2i.co)
 
 ### AI in Software Development
 - [ ] Software Engineers
