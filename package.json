@@ -7,6 +7,7 @@
     "spec-md": "^3.1.0"
   },
   "scripts": {
+    "out": "spec-md ./doc/readme.md > ./out/index.html",
     "dev": "nodemon --exec 'spec-md > ./out/index.html' ./doc/readme.md &",
     "dev:preview": "bun run dev && browser-sync out"
   }
