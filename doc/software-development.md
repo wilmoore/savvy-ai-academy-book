@@ -10,6 +10,30 @@ Once you've completed even one of these, you're a software developer or software
 - [ ] [arc()](https://arc.dev/dashboard/d/full-time-jobs/browse)
 - [ ] [G2i](https://g2i.co)
 
+### Roles
+#### Web
+- [ ] Fullstack
+- [ ] Frontend
+- [ ] Backend
+#### Mobile
+- [ ] iOS
+- [ ] Android
+#### AI
+- [ ] Data Science
+- [ ] AI Engineers
+
+#### Infra
+- [ ] Platform Eng
+- [ ] Site Reliability Engineers
+
+#### Product
+- [ ] Product Design
+- [ ] Product Mgmt
+
+#### Security
+- [ ] Security Engineers
+- [ ] Security Analysts
+
 ### AI in Software Development
 - [ ] Software Engineers
 - [ ] AI Assistants
