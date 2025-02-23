@@ -1,5 +1,7 @@
 # AI Software
 
+- [ ] [How I Made AI Assistants Do My Work For Me: CrewAI](https://youtu.be/kJvXT25LkwA)
+
 ### Conversational AI UI
 - [ ] ChatGPT
 - [ ] Deepseek
